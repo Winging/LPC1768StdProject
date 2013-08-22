@@ -1,0 +1,11 @@
+.\Obj\uip-fw.o: ..\uip\uip-fw.c
+.\Obj\uip-fw.o: ..\uip\uip.h
+.\Obj\uip-fw.o: ..\uip\uipopt.h
+.\Obj\uip-fw.o: ..\lpc17xx_port\uip-conf.h
+.\Obj\uip-fw.o: d:\Keil\ARM\RV31\Inc\inttypes.h
+.\Obj\uip-fw.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\uip-fw.o: ..\USER\app_uip_conf.h
+.\Obj\uip-fw.o: ..\NXPLibraries\include\lpc_types.h
+.\Obj\uip-fw.o: ..\uip\uip_arch.h
+.\Obj\uip-fw.o: ..\uip\uip-fw.h
+.\Obj\uip-fw.o: d:\Keil\ARM\RV31\Inc\string.h

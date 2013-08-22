@@ -1,0 +1,9 @@
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\source\lpc17xx_pinsel.c
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\include\lpc17xx_pinsel.h
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\lpc17xx.h
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\lpc17xx_pinsel.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\CMSIS\CM3\CoreSupport\core_cmInstr.h
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\CMSIS\CM3\CoreSupport\core_cmFunc.h
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\Obj\lpc17xx_pinsel.o: ..\NXPLibraries\include\lpc_types.h

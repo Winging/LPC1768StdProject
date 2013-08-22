@@ -1,0 +1,13 @@
+.\Obj\clock-arch.o: ..\lpc17xx_port\clock-arch.c
+.\Obj\clock-arch.o: ..\lpc17xx_port\clock-arch.h
+.\Obj\clock-arch.o: ..\NXPLibraries\include\lpc_types.h
+.\Obj\clock-arch.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\clock-arch.o: ..\NXPLibraries\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\Obj\clock-arch.o: ..\NXPLibraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\Obj\clock-arch.o: ..\NXPLibraries\CMSIS\CM3\CoreSupport\core_cmInstr.h
+.\Obj\clock-arch.o: ..\NXPLibraries\CMSIS\CM3\CoreSupport\core_cmFunc.h
+.\Obj\clock-arch.o: ..\NXPLibraries\CMSIS\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\Obj\clock-arch.o: ..\UCOS\uCOS-II\Source\ucos_ii.h
+.\Obj\clock-arch.o: ..\USER\app_cfg.h
+.\Obj\clock-arch.o: ..\UCOS\uC-CONF\os_cfg.h
+.\Obj\clock-arch.o: ..\UCOS\uCOS-II\Ports\ARM-Cortex-M3\RealView\os_cpu.h

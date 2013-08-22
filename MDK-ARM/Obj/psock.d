@@ -1,0 +1,14 @@
+.\Obj\psock.o: ..\uip\psock.c
+.\Obj\psock.o: d:\Keil\ARM\RV31\Inc\stdio.h
+.\Obj\psock.o: d:\Keil\ARM\RV31\Inc\string.h
+.\Obj\psock.o: ..\uip\uipopt.h
+.\Obj\psock.o: ..\lpc17xx_port\uip-conf.h
+.\Obj\psock.o: d:\Keil\ARM\RV31\Inc\inttypes.h
+.\Obj\psock.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\Obj\psock.o: ..\USER\app_uip_conf.h
+.\Obj\psock.o: ..\NXPLibraries\include\lpc_types.h
+.\Obj\psock.o: ..\uip\psock.h
+.\Obj\psock.o: ..\uip\pt.h
+.\Obj\psock.o: ..\uip\lc.h
+.\Obj\psock.o: ..\uip\lc-switch.h
+.\Obj\psock.o: ..\uip\uip.h
