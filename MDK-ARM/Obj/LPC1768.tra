@@ -54,7 +54,7 @@
 ### ADS-LD Output File: '.\Obj\LPC1768.axf'
 ### ADS-LD Command File: '.\Obj\LPC1768.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\Obj\LPC1768.lnp', Handle=0x00000914
+### Creating CmdFile '.\Obj\LPC1768.lnp', Handle=0x0000031C
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\Obj\LPC1768.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
